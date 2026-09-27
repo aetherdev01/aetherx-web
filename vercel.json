@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/download", "destination": "/index.html" },
+    { "source": "/download/", "destination": "/index.html" },
+    { "source": "/preview", "destination": "/index.html" },
+    { "source": "/preview/", "destination": "/index.html" },
+    { "source": "/about", "destination": "/index.html" },
+    { "source": "/about/", "destination": "/index.html" }
+  ]
+}
